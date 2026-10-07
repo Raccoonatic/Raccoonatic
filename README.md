@@ -33,18 +33,17 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 	<a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
 	</a>
-	<h3> </h3>
 	<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="instagram" width="40" height="40"/>
+		<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" width="40" height="40"/>
 	</a>
 	<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer">
-		<img src="https://cdn.simpleicons.org/tiktok/00ccff" alt="tiktok" width="40" height="40"/>
+		<img src="https://img.icons8.com/fluency/48/tiktok.png" alt="tiktok" width="40" height="40"/>
 	</a>
 	<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer">
-		<img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" width="40" height="40"/>
+		<img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="youtube" width="40" height="40"/>
 	</a>
 	<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer">
-		<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" width="40" height="40"/>
+		<img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail" width="40" height="40"/>
 	</a>
 </p>
 
@@ -69,12 +68,12 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	</a>
 	<a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.simpleicons.org/gnu/ff8800" alt="gnu-make" width="40" height="40"/>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu-make" width="40" height="40"/>
 	</a>
 </p>
 
 <p align="center">
   <a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer">
-    <img src=".assets/Mapache_V2.png" width="40%" alt="Click here to view my CV"/>
+    <img src=".assets/Mapache_V2.png" width="20%" alt="Click here to view my CV"/>
   </a>
 </p>
