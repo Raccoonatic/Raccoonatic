@@ -28,27 +28,10 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 
 *(Note: Click the project names to check out the repositories!)*
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
-	</a>
-	<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/skill-icons:instagram.svg" alt="instagram" width="40" height="40"/>
-	</a>
-	<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:tiktok-icon.svg" alt="tiktok" width="40" height="40"/>
-	</a>
-	<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/>
-	</a>
-	<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:google-gmail.svg" alt="gmail" width="40" height="40"/>
-	</a>
-</p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.simpleicons.org/gnubash/23D18B" alt="bash" width="40" height="40"/>
 	</a>
@@ -71,7 +54,25 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 		<img src="https://api.iconify.design/vscode-icons:file-type-makefile.svg" alt="gnu-make" width="40" height="40"/>
 	</a>
 </p>
-
+<h2> </h2>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+	<a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer">
+		<img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+	</a>
+	<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer">
+		<img src="https://api.iconify.design/skill-icons:instagram.svg" alt="instagram" width="40" height="40"/>
+	</a>
+	<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer">
+		<img src="https://api.iconify.design/logos:tiktok-icon.svg" alt="tiktok" width="40" height="40"/>
+	</a>
+	<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer">
+		<img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/>
+	</a>
+	<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer">
+		<img src="https://api.iconify.design/logos:google-gmail.svg" alt="gmail" width="40" height="40"/>
+	</a>
+</p>
 <p align="center">
   <a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer">
     <img src=".assets/Mapache_V2.png" width="20%" alt="Click here to view my CV"/>
