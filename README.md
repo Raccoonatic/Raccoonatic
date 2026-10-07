@@ -1,18 +1,18 @@
 <p align="center">
-  <img src=".assets/Code and Wild Raccoon Fusion.png" alt="Banner Image"/>
+  <a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer"><img src=".assets/Code and Wild Raccoon Fusion.png" alt="Click here to view my CV"/></a>
 </p>
 <h1 align="center">Hi 👋, I'm Luis "Mapache" Torcate </h1>
 <h3 align="center">I'm a Venezuelan Software Developer currently studying at 42 Porto. My main areas of interest are IT, Game Development and Art. I thrive at the intersection of creative problem-solving, pretty colors, and low-level programming.</h3>
 
 - 🔭 I’m currently working on the **core curriculum projects at 42 Porto**
 
-- 🌱 I’m currently learning **C, C++, Python, Be a better human and Process Automation**
+- 🌱 I’m currently learning **C, C++, Python, How to be a better human and Process Automation**
 
-- 📫 How to reach me? Preferably email (**ljtorcate@gmail.com**). *My socials are at the bottom of the README too*
+- 📫 How to reach me: Preferably via email (**ljtorcate@gmail.com**). *But my socials are at the bottom of the page*
 
-- 📄 Know more about my background on my [**LinkedIn**](https://linkedin.com/in/luis-mapache-torcate)
+- 📄 Know more about my background on my [**LinkedIn**](https://linkedin.com/in/luis-mapache-torcate) or my [**CV**](./.assets/CV%20Luis%20Torcate%20(October%202026).pdf)
 
-- ⚡ Fun fact: Before diving into software development, I studied Audiovisual Arts. **I believe that game development is the ultimate tool for storytelling and immersion!**
+- ⚡ Fun fact: Before jumping into programming, I was studying Audiovisual Arts. **I believe that game development is the ultimate tool for storytelling and immersion!**
 <br>
 <h3 align="left">🚀 Featured Projects:</h3>
 If you want to see what I have been building, here is a quick breakdown of my top projects:
