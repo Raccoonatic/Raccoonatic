@@ -31,19 +31,19 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+		<img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
 	</a>
 	<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer">
-		<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" width="40" height="40"/>
+		<img src="https://api.iconify.design/logos:instagram-icon.svg" alt="instagram" width="40" height="40"/>
 	</a>
 	<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer">
-		<img src="https://img.icons8.com/fluency/48/tiktok.png" alt="tiktok" width="40" height="40"/>
+		<img src="https://api.iconify.design/logos:tiktok-icon.svg" alt="tiktok" width="40" height="40"/>
 	</a>
 	<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/>
-  </a>
+		<img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/>
+	</a>
 	<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer">
-		<img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail" width="40" height="40"/>
+		<img src="https://api.iconify.design/logos:google-gmail.svg" alt="gmail" width="40" height="40"/>
 	</a>
 </p>
 
@@ -68,7 +68,7 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	</a>
 	<a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" alt="gnu-make" width="40" height="40"/>
+		<img src="https://api.iconify.design/vscode-icons:file-type-makefile.svg" alt="gnu-make" width="40" height="40"/>
 	</a>
 </p>
 
