@@ -40,8 +40,8 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 		<img src="https://img.icons8.com/fluency/48/tiktok.png" alt="tiktok" width="40" height="40"/>
 	</a>
 	<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer">
-		<img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="youtube" width="40" height="40"/>
-	</a>
+    <img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/>
+  </a>
 	<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer">
 		<img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail" width="40" height="40"/>
 	</a>
