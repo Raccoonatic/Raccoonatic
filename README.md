@@ -48,9 +48,6 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 <a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:tiktok-icon.svg" alt="tiktok" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="gmail" width="40" height="40"/></a>&nbsp;&nbsp;
-</p>
-<p align="center">
-  <a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer">
-    <img src=".assets/Mapache_V2.png" width="20%" alt="Click here to view my CV"/>
-  </a>
+</br>
+<a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer"><img src=".assets/Mapache_V2.png" width="20%" alt="Click here to view my CV"/></a>
 </p>
