@@ -13,7 +13,7 @@
 - 📄 Know more about my background on my [**LinkedIn**](https://linkedin.com/in/luis-mapache-torcate) or my [**CV**](./.assets/CV%20Luis%20Torcate%20(October%202026).pdf)
 
 - ⚡ Fun fact: Before jumping into programming, I was studying Audiovisual Arts. **I believe that game development is the ultimate tool for storytelling and immersion!**
-<br>
+
 <h3 align="left">🚀 Featured Projects:</h3>
 If you want to see what I have been building, here is a quick breakdown of my top projects:
 <br></br>
