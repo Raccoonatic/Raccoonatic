@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Luis Torcate (Mapache)</h1>
-<h3 align="center">I'm a storyteller turned Software Developer currently studying at 42 Porto. Known by my peers as "un tipo que resuelve" (a guy who figures it out), I thrive at the intersection of creative problem-solving, operational efficiency, and low-level programming.</h3>
+<p align="center">
+  <img src=".assets/Code and Wild Raccoon Fusion.png" width="100%" alt="Banner Image"/>
+</p>
+<h1 align="center">Hi 👋, I'm Luis "Mapache" Torcate </h1>
+<h3 align="center">I'm a creative Software Developer currently studying at 42 Porto. Known by my peers as "un tipo que resuelve" (a guy who figures it out), I thrive at the intersection of creative problem-solving, operational efficiency, and low-level programming.</h3>
 
 - 🔭 I’m currently working on **core curriculum projects at 42 Porto (like Minishell!)**
 
@@ -24,34 +27,54 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 | **[NetPractice](https://github.com/Raccoonatic)** | `TCP/IP`, `Routing` | Practical network administration involving hands-on CIDR subnet masking, routing tables, and IP configurations. |
 
 *(Note: Click the project names to check out the repositories!)*
-
 <br>
-
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
-  <a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> 
-  </a>
+<p align="left">
+	<a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+	</a>
+	<h3> </h3>
+	<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer">
+		<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="instagram" width="40" height="40"/>
+	</a>
+	<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer">
+		<img src="https://cdn.simpleicons.org/tiktok/00ccff" alt="tiktok" width="40" height="40"/>
+	</a>
+	<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer">
+		<img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" width="40" height="40"/>
+	</a>
+	<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer">
+		<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" width="40" height="40"/>
+	</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+		<img src="https://cdn.simpleicons.org/gnubash/23D18B" alt="bash" width="40" height="40"/>
+	</a>
+	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+	</a>
+	<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+	</a>
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+	</a>
+	<a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
+	</a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	</a>
+	<a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
+		<img src="https://cdn.simpleicons.org/gnu/ff8800" alt="gnu-make" width="40" height="40"/>
+	</a>
+</p>
+
+<p align="center">
+  <a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer">
+    <img src=".assets/Mapache_V2.png" width="40%" alt="Click here to view my CV"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
 </p>
