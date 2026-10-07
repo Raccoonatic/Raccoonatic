@@ -34,7 +34,7 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 		<img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
 	</a>
 	<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:instagram-icon.svg" alt="instagram" width="40" height="40"/>
+		<img src="https://api.iconify.design/skill-icons:instagram.svg" alt="instagram" width="40" height="40"/>
 	</a>
 	<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer">
 		<img src="https://api.iconify.design/logos:tiktok-icon.svg" alt="tiktok" width="40" height="40"/>
