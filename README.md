@@ -32,46 +32,22 @@ If you want to see what I have been building at 42, here is a quick breakdown of
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.simpleicons.org/gnubash/23D18B" alt="bash" width="40" height="40"/>
-	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
-	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-	</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/vscode-icons:file-type-makefile.svg" alt="gnu-make" width="40" height="40"/>
-	</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/23D18B" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/vscode-icons:file-type-makefile.svg" alt="gnu-make" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 <h2> </h2>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-	<a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
-	</a>&nbsp;&nbsp;
-	<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/skill-icons:instagram.svg" alt="instagram" width="40" height="40"/>
-	</a>&nbsp;&nbsp;
-	<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:tiktok-icon.svg" alt="tiktok" width="40" height="40"/>
-	</a>&nbsp;&nbsp;
-	<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/>
-	</a>&nbsp;&nbsp;
-	<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer">
-		<img src="https://api.iconify.design/logos:google-gmail.svg" alt="gmail" width="40" height="40"/>
-	</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/luis-mapache-torcate" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/yomellamoluis/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/skill-icons:instagram.svg" alt="instagram" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@y0mellamoluis" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:tiktok-icon.svg" alt="tiktok" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@yomellamomapache" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:youtube-icon.svg" alt="youtube" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="mailto:ljtorcate@gmail.com" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="gmail" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer">
