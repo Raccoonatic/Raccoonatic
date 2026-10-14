@@ -43,8 +43,12 @@ If you want to see what I have been building, here is a quick breakdown of my to
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/vscode-icons:file-type-makefile.svg" alt="gnu-make" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raccoonatic&theme=gotham&animation=draw" alt="Stats"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raccoonatic&theme=gotham&animation=draw" alt="Top languages by repo"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raccoonatic&theme=gotham&animation=draw" alt="Top languages by commit"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raccoonatic&theme=gotham&animation=draw&utcOffset=0" alt="Commits"/></div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raccoonatic&theme=gotham&animation=draw" alt="Stats"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raccoonatic&theme=gotham&animation=draw" alt="Top languages by repo"/></div>
+
+
 <h2> </h2>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
