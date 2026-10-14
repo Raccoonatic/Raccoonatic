@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact: Before jumping into programming, I was studying Audiovisual Arts. **I believe that game development is the ultimate tool for storytelling and immersion!**
 
+<h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raccoonatic&theme=gotham&animation=draw&name=Luis+%22Mapache%22+Torcate" alt="Mapache's Contributions" /></h1>
+
 <h3 align="left">🚀 Featured Projects:</h3>
 If you want to see what I have been building, here is a quick breakdown of my top projects:
 <br></br>
@@ -32,8 +34,8 @@ If you want to see what I have been building, here is a quick breakdown of my to
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/23D18B" alt="bash" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -41,7 +43,8 @@ If you want to see what I have been building, here is a quick breakdown of my to
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/vscode-icons:file-type-makefile.svg" alt="gnu-make" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raccoonatic&theme=gotham&animation=draw" alt="Stats"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raccoonatic&theme=gotham&animation=draw" alt="Top languages by repo"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raccoonatic&theme=gotham&animation=draw" alt="Top languages by commit"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raccoonatic&theme=gotham&animation=draw&utcOffset=0" alt="Commits"/></div>
 <h2> </h2>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
