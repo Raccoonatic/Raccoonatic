@@ -1,7 +1,7 @@
 <p align="center">
   <a href=".assets/CV%20Luis%20Torcate%20(October%202026).pdf" target="_blank" rel="noreferrer"><img src=".assets/Code and Wild Raccoon Fusion.png" alt="Click here to view my CV"/></a>
 </p>
-<h1 align="center">Hi 👋, I'm Luis "Mapache" Torcate </h1>
+<h1 align="center"><href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=30&duration=3000&pause=2000&color=25F790&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Luis+%22Mapache%22+Torcate;Welcome+to+my+GitHub!;Don't+forget+to+drink+water+%3C3;%F0%9F%A6%9D" alt="Hi 👋, I'm Luis 'Mapache' Torcate" /></h1>
 <h3 align="center">I'm a Venezuelan Software Developer currently studying at 42 Porto. My main areas of interest are IT, Game Development and Art. I thrive at the intersection of creative problem-solving, pretty colors, and low-level programming.</h3>
 
 - 🔭 I’m currently working on the **infrastructure for an online newsroom system**
